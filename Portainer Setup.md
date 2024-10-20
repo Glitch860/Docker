@@ -279,7 +279,7 @@ URL: https://[hostIP]:9443
 docker pull portainer/portainer-ce:[version]
 ```
 ```
-docker service update --image portainer/porainer-ce:[version] --publish-add 9443:9443 --force portainer_poratiner
+docker service update --image portainer/portainer-ce:[version] --publish-add 9443:9443 --force portainer_poratiner
 ```
 ```
 docker pull portainer/agent:[version]
